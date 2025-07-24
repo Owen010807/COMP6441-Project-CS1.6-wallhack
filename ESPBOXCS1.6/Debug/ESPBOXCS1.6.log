@@ -1,0 +1,40 @@
+﻿  ESPBOXCS1.6.cpp
+D:\wallhack\wallhack\ESPBOXCS1.6\gamedata.hpp(26,23): warning C4018: “<”: 有符号/无符号不匹配
+  (编译源文件“ESPBOXCS1.6.cpp”)
+  
+D:\wallhack\wallhack\ESPBOXCS1.6\transparent.hpp(32,20): warning C4018: “<”: 有符号/无符号不匹配
+  (编译源文件“ESPBOXCS1.6.cpp”)
+  
+D:\wallhack\wallhack\ESPBOXCS1.6\transparent.hpp(45,33): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  (编译源文件“ESPBOXCS1.6.cpp”)
+  
+D:\wallhack\wallhack\ESPBOXCS1.6\transparent.hpp(45,30): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  (编译源文件“ESPBOXCS1.6.cpp”)
+  
+D:\wallhack\wallhack\ESPBOXCS1.6\transparent.hpp(45,27): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  (编译源文件“ESPBOXCS1.6.cpp”)
+  
+D:\wallhack\wallhack\ESPBOXCS1.6\transparent.hpp(45,24): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  (编译源文件“ESPBOXCS1.6.cpp”)
+  
+D:\wallhack\wallhack\ESPBOXCS1.6\transparent.hpp(46,61): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  (编译源文件“ESPBOXCS1.6.cpp”)
+  
+D:\wallhack\wallhack\ESPBOXCS1.6\transparent.hpp(46,50): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  (编译源文件“ESPBOXCS1.6.cpp”)
+  
+D:\wallhack\wallhack\ESPBOXCS1.6\transparent.hpp(46,38): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  (编译源文件“ESPBOXCS1.6.cpp”)
+  
+D:\wallhack\wallhack\ESPBOXCS1.6\transparent.hpp(46,33): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  (编译源文件“ESPBOXCS1.6.cpp”)
+  
+D:\wallhack\wallhack\ESPBOXCS1.6\transparent.hpp(133,50): warning C4305: “参数”: 从“DWORD”到“BYTE”截断
+  (编译源文件“ESPBOXCS1.6.cpp”)
+  
+D:\wallhack\wallhack\ESPBOXCS1.6\transparent.hpp(133,50): warning C4309: “参数”: 截断常量值
+  (编译源文件“ESPBOXCS1.6.cpp”)
+  
+D:\wallhack\wallhack\ESPBOXCS1.6\ESPBOXCS1.6.cpp(11,10): warning C4101: “botName”: 未引用的局部变量
+D:\wallhack\wallhack\ESPBOXCS1.6\winapitools.hpp(79,1): warning C4172: 返回局部变量的地址或临时 : bootName
+  ESPBOXCS1.6.vcxproj -> D:\wallhack\wallhack\ESPBOXCS1.6\Debug\ESPBOXCS1.6.exe
